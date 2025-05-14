@@ -12,14 +12,27 @@
 ### 🚀 Purpose
 This organization gathers every **mini‑app** built chapter‑by‑chapter.
 <br>
+<br>
 
 ### 📚 Repository Index
-| Chapter | Repo | Key Topics | Status |
-|:--:|---|---|---|
-| 1 | [hello_app](https://github.com/Rails-Tutorial7/hello_app) | Deploy, routes | ![done](https://img.shields.io/badge/-Done-28A745?style=flat&labelColor=28A745&logoColor=white) |
-| 2 | [toy_app](https://github.com/Rails-Tutorial7/toy_app) | Scaffold, REST | ![done](https://img.shields.io/badge/-Done-28A745?style=flat&labelColor=28A745&logoColor=white) |
-| 3‑14 | [sample_app](https://github.com/Rails-Tutorial7/sample_app) | Auth, Microposts | ![wip](https://img.shields.io/badge/-WIP-FFAA00?style=flat&labelColor=FFAA00&logoColor=white) |
-| – | [Rails‑Tutorial7](https://github.com/Rails-Tutorial7/Rails-Tutorial7) | Learning log | ![wip](https://img.shields.io/badge/-WIP-FFAA00?style=flat&labelColor=FFAA00&logoColor=white) |
+| # | Repo / Tag | Key Topics | R1 Status | R2 Status |
+|:--:|---|---|:--:|:--:|
+| 1 | [hello_app](https://github.com/Rails-Tutorial7/hello_app) | Deploy, routes | ![done](https://img.shields.io/badge/-Done-28A745?style=flat&labelColor=28A745) | ![todo](https://img.shields.io/badge/-Todo-6C757D?style=flat&labelColor=6C757D) |
+| 2 | [toy_app](https://github.com/Rails-Tutorial7/toy_app) | MVC scaffold, REST | ![done](https://img.shields.io/badge/-Done-28A745?style=flat&labelColor=28A745) | ![todo](https://img.shields.io/badge/-Todo-6C757D?style=flat&labelColor=6C757D) |
+| 3 | sample_app [`v1‑ch03`](https://github.com/Rails-Tutorial7/sample_app/tree/v1-ch03) | Static pages, TDD | ![done](https://img.shields.io/badge/-Done-28A745?style=flat&labelColor=28A745) | ![todo](https://img.shields.io/badge/-Todo-6C757D?style=flat&labelColor=6C757D) |
+| 4 | sample_app [`v1‑ch04`](https://github.com/Rails-Tutorial7/sample_app/tree/v1-ch04) | Rails‑flavored Ruby, helpers | ![done](https://img.shields.io/badge/-Done-28A745?style=flat&labelColor=28A745) | ![todo](https://img.shields.io/badge/-Todo-6C757D?style=flat&labelColor=6C757D) |
+| 5 | sample_app [`v1‑ch05`](https://github.com/Rails-Tutorial7/sample_app/tree/v1-ch05) | Layout, Bootstrap, partials | ![done](https://img.shields.io/badge/-Done-28A745?style=flat&labelColor=28A745) | ![todo](https://img.shields.io/badge/-Todo-6C757D?style=flat&labelColor=6C757D) |
+| 6 | sample_app [`v1‑ch06`](https://github.com/Rails-Tutorial7/sample_app/tree/v1-ch06) | User model, validations | ![done](https://img.shields.io/badge/-Done-28A745?style=flat&labelColor=28A745) | ![todo](https://img.shields.io/badge/-Todo-6C757D?style=flat&labelColor=6C757D) |
+| 7 | sample_app [`v1‑ch07`](https://github.com/Rails-Tutorial7/sample_app/tree/v1-ch07) | Sign‑up, flash, TLS | ![done](https://img.shields.io/badge/-Done-28A745?style=flat&labelColor=28A745) | ![todo](https://img.shields.io/badge/-Todo-6C757D?style=flat&labelColor=6C757D) |
+| 8 | sample_app [`v1‑ch08`](https://github.com/Rails-Tutorial7/sample_app/tree/v1-ch08) | Login, sessions | ![done](https://img.shields.io/badge/-Done-28A745?style=flat&labelColor=28A745) | ![todo](https://img.shields.io/badge/-Todo-6C757D?style=flat&labelColor=6C757D) |
+| 9 | sample_app [`v1‑ch09`](https://github.com/Rails-Tutorial7/sample_app/tree/v1-ch09) | Remember‑me, cookies | ![done](https://img.shields.io/badge/-Done-28A745?style=flat&labelColor=28A745) | ![todo](https://img.shields.io/badge/-Todo-6C757D?style=flat&labelColor=6C757D) |
+|10 | sample_app [`v1‑ch10`](https://github.com/Rails-Tutorial7/sample_app/tree/v1-ch10) | Edit / index, admin users | ![done](https://img.shields.io/badge/-Done-28A745?style=flat&labelColor=28A745) | ![todo](https://img.shields.io/badge/-Todo-6C757D?style=flat&labelColor=6C757D) |
+|11 | sample_app [`v1‑ch11`](https://github.com/Rails-Tutorial7/sample_app/tree/v1-ch11) | Account activation mail | ![done](https://img.shields.io/badge/-Done-28A745?style=flat&labelColor=28A745) | ![todo](https://img.shields.io/badge/-Todo-6C757D?style=flat&labelColor=6C757D) |
+|12 | sample_app [`v1‑ch12`](https://github.com/Rails-Tutorial7/sample_app/tree/v1-ch12) | Password reset mail | ![done](https://img.shields.io/badge/-Done-28A745?style=flat&labelColor=28A745) | ![todo](https://img.shields.io/badge/-Todo-6C757D?style=flat&labelColor=6C757D) |
+|13 | sample_app [`v1‑ch13`](https://github.com/Rails-Tutorial7/sample_app/tree/v1-ch13) | Microposts, images | ![done](https://img.shields.io/badge/-Done-28A745?style=flat&labelColor=28A745) | ![todo](https://img.shields.io/badge/-Todo-6C757D?style=flat&labelColor=6C757D) |
+|14 | sample_app `main` (HEAD) | Follow system, feed | ![wip](https://img.shields.io/badge/-WIP-FFAA00?style=flat&labelColor=FFAA00) | ![todo](https://img.shields.io/badge/-Todo-6C757D?style=flat&labelColor=6C757D) |
+| – | [Rails‑Tutorial7](https://github.com/Rails-Tutorial7/Rails-Tutorial7) | Docker, learning log | 📝 | 📝 |
+
 <br>
 
 ### 🛠 Tech Stack
