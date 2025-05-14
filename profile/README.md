@@ -45,4 +45,4 @@ bin/dev
 <br>
 
 ### 📝 License
-This project is licensed under the **MIT License** — see the [`LICENSE`](LICENSE) file for details.
+This project is licensed under the **MIT License** — see the [`LICENSE`](https://github.com/Rails-Tutorial7/.github/blob/main/LICENSE) file for details.
