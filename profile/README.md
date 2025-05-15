@@ -30,7 +30,7 @@ This organization gathers every **mini‑app** built chapter‑by‑chapter.
 |11 | sample_app [`v1‑ch11`](https://github.com/Rails-Tutorial7/sample_app/tree/v1-ch11) | Account activation mail | ![done](https://img.shields.io/badge/-Done-28A745?style=flat&labelColor=28A745) | ![todo](https://img.shields.io/badge/-Todo-6C757D?style=flat&labelColor=6C757D) |
 |12 | sample_app [`v1‑ch12`](https://github.com/Rails-Tutorial7/sample_app/tree/v1-ch12) | Password reset mail | ![done](https://img.shields.io/badge/-Done-28A745?style=flat&labelColor=28A745) | ![todo](https://img.shields.io/badge/-Todo-6C757D?style=flat&labelColor=6C757D) |
 |13 | sample_app [`v1‑ch13`](https://github.com/Rails-Tutorial7/sample_app/tree/v1-ch13) | Microposts, images | ![done](https://img.shields.io/badge/-Done-28A745?style=flat&labelColor=28A745) | ![todo](https://img.shields.io/badge/-Todo-6C757D?style=flat&labelColor=6C757D) |
-|14 | sample_app `main` (HEAD) | Follow system, feed | ![wip](https://img.shields.io/badge/-WIP-FFAA00?style=flat&labelColor=FFAA00) | ![todo](https://img.shields.io/badge/-Todo-6C757D?style=flat&labelColor=6C757D) |
+|14 | sample_app [`v1‑ch14`](https://github.com/Rails-Tutorial7/sample_app/tree/v1-ch14) | Follow system, feed | ![done](https://img.shields.io/badge/-Done-28A745?style=flat&labelColor=28A745) | ![todo](https://img.shields.io/badge/-Todo-6C757D?style=flat&labelColor=6C757D) |
 | – | [Rails‑Tutorial7](https://github.com/Rails-Tutorial7/Rails-Tutorial7) | Docker, learning log | 📝 | 📝 |
 
 <br>
